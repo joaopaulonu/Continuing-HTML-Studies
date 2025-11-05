@@ -1,9 +1,44 @@
-**Simple HTML Template with Links and Images**
+# 🌐 Simple HTML Template with Links and Images
 
-This project provides a simple HTML template designed for beginners. It demonstrates the basic structure of an HTML document, including how to add headings, paragraphs, images, and links. The code includes helpful comments to guide users through the key elements, such as the <a> tag for creating links and the <img> tag for displaying images. By opening the index.html file in a browser, users can see how these elements work together to create a basic webpage. This template is ideal for those just starting with web development and looking to understand fundamental HTML concepts. Feel free to use this project as a reference or starting point to build your own HTML skills.
+## 📄 Project Overview
 
-The purpose of this project is to offer a straightforward starting point for those new to HTML. It demonstrates how to organize content with headings and paragraphs and shows how to include images on a webpage. The project also emphasizes the importance of using comments to make code more readable, particularly for beginners.
+This project offers a beginner-friendly HTML template that demonstrates the foundational structure of a webpage. It includes examples of key elements such as **headings**, **paragraphs**, **images**, and **links**, providing a clear introduction to HTML syntax and layout.
 
-By opening the index.html file in a browser, users can immediately see how these elements come together to form a simple webpage. The simplicity of the project makes it an ideal resource for those looking to learn the basics of HTML.
+The code is annotated with helpful comments to guide users through essential tags like `<a>` for hyperlinks and `<img>` for image embedding. By opening the `index.html` file in a browser, users can see how these components work together to build a basic webpage.
 
-Feel free to use this project as a reference or starting point to build your own HTML skills. It’s a practical, easy-to-understand template designed to help newcomers get comfortable with web development.
+## 🚀 Key Features
+
+- Semantic HTML structure with headings and paragraphs
+- Embedded images using the `<img>` tag
+- Hyperlinks created with the `<a>` tag
+- Inline comments for better code readability
+
+## 🎯 Learning Outcomes
+
+- Understand the basic anatomy of an HTML document
+- Learn how to organize content visually and semantically
+- Gain confidence in using core HTML tags
+- Build a foundation for more advanced web development
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Document structure and content formatting
+
+## 📚 Ideal For
+
+This template is perfect for:
+
+- Students and beginners learning HTML
+- Anyone looking for a clean starting point for web projects
+- Reference material for basic HTML syntax and layout
+
+Feel free to use this project as a foundation to expand your HTML skills or customize it for your own learning journey.
+
+## 📬 Contact Me
+
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/nunes-andrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/jp_nunes.andrade" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:jpnunesandrade26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.alura.com.br/indica-dev/jpnunesandrade26" target="_blank"><img src="https://img.shields.io/badge/Alura-0077B5?style=for-the-badge&logo=alura&logoColor=white"></a> 
+</div>
